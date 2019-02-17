@@ -1,5 +1,5 @@
-﻿token=التوكن 
-owner=ادي بتعك 
+﻿token=NTQ1MjI3NTM4ODQ3MjM2MTE4.D0rqEw._u2K_G7j_1_hc1DZ0vJIr-5rdoU 
+owner=472660974625882123 
 prefix= t
 game= !thelp
 stayinchannel=true
